@@ -1,2 +1,2 @@
 # wp-minimal-smtp
-Minimal plugin to enable WP to send emails using SMTP. No config screnns. Fast and simple. Stores parameters in config.php. Run from mu-plugins too. Provides  a wp-cli 'test-email' command to check the configuration
+Minimal WordPress plugin to send emails using SMTP. Fast and simple set and forget. Stores parameters in config.php, no admin screen. Run from mu-plugins too. Provides a wp-cli 'test-email' command to check the configuration 
