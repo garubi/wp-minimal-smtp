@@ -1,11 +1,12 @@
 <?php 
 /*
-Plugin Name: Minimal SMTP
-Plugin URI: http://example.com/
-Description: Minimal plugin to enable WP to send emails using SMTP. Stores parameters in config.php. Run from mu-plugins too. See Readme or plugin's page for configuration guidelines. Use wp-cli 'test-email' command to test your configuration
-Version: 1.0
-Author: Stefano Garuti
-Author URI: http://example.com/ 
+* Plugin Name: Minimal SMTP
+* Plugin URI: https://github.com/garubi/wp-minimal-smtp
+* Description: Minimal plugin to enable WP to send emails using SMTP. Stores parameters in config.php. Run from mu-plugins too. See Readme or plugin's page for configuration guidelines. Use wp-cli 'test-email' command to test your configuration
+* Version: 1.0
+* Author: Stefano Garuti
+* Author URI: https://github.com/garubi/
+* GitHub Plugin URI: https://github.com/garubi/wp-minimal-smtp
 */
 
 /**
